@@ -53,13 +53,13 @@ This project explores a personalized music recommendation system designed to sup
 
 ### 📁 File Description
 
-| File/Folder         | Description |
-|---------------------|-------------|
-| `notebooks/`        | Jupyter Notebooks for preprocessing, modeling, and evaluation |
-| `data/`             | CSVs of Spotify tracks and user streaming history |
-| `final_report.pdf`  | Full technical report detailing methodology and findings |
-| `README.md`         | Project overview and instructions |
-| `output/`           | Generated playlists and visualizations |
+### 📁 File Description
+
+| File Name                | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| `FinalCode_Group7.ipynb` | Full implementation of the music recommendation system (EDA, ML, KNN, etc.) |
+| `FinalReport_Group7.pdf` | Comprehensive technical report detailing methodology, results, and insights |
+| `Spotify_Presentation.pdf` | Beautifying our raw report     
 
 ### 🔮 Future Improvements
 
